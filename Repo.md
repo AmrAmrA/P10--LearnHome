@@ -1,2 +1,0 @@
-# Projet 10 Formation développeur React Javascript Openclassrooms
-Dans le cadre du projet 10 de la formation Openclasrooms. Il s'agissait de s'occuper de toute la gestion du projet d'un site de cours à distance qui propose une mise relation entre Bénévoles et élèves en difficulté grâce à la création d'une application "Learn@home"
